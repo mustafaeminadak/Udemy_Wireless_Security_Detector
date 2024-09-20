@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetD4_2 Pin=RL2-4
+Removed Pin From Net: NetName=12VDC Pin=RL2-5
+Added Pin To Net: NetName=12VDC Pin=RL2-4
+Added Pin To Net: NetName=NetD4_2 Pin=RL2-5

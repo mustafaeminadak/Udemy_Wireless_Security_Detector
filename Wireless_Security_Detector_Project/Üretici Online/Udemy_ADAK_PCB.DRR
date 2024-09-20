@@ -1,0 +1,44 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Udemy_ADAK_PCB.PcbDoc   28.04.2023  11:55:03
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Udemy_ADAK_PCB-RoundHoles.TXT
+ASCII SlotHoles File : Udemy_ADAK_PCB-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             7         PTH        3.20inch (81.27mm)
+T2      14mil (0.35mm)                                            Round             91        PTH        22.40inch (568.99mm)
+T3      20mil (0.5mm)                                             Round             3         PTH        0.28inch (7.20mm)
+T4      32mil (0.8mm)                                             Round             2         PTH        0.20inch (5.00mm)
+T5      35mil (0.9mm)                                             Round             14        PTH        2.92inch (74.20mm)
+T6      39mil (1mm)                                               Round             10        PTH        5.28inch (134.10mm)
+T7      39mil (1mm)                                               Slot              2         PTH        4.01inch (101.84mm)
+T8      43mil (1.1mm)                                             Round             2         PTH        1.18inch (30.00mm)
+T9      47mil (1.2mm)                                             Slot              4         PTH        4.85inch (123.28mm)
+T10     51mil (1.3mm)                                             Round             10        PTH        3.27inch (83.16mm)
+T11     69mil (1.75mm)                                            Round             6         PTH        4.81inch (122.27mm)
+T12     83mil (2.1mm)                                             Round             2         NPTH       2.20inch (55.94mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              153
+Layer Pair : Top Layer to POWER
+ASCII RoundHoles File : Udemy_ADAK_PCB-RoundHoles.TX1
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             3         PTH        0.17inch (4.33mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              3
+Layer Pair : POWER to Bottom Layer
+ASCII RoundHoles File : Udemy_ADAK_PCB-RoundHoles.TX2
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             3         PTH        0.17inch (4.33mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              3
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              159
+
+Total Processing Time (hh:mm:ss) : 00:00:01

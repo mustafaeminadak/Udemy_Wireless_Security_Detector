@@ -1,0 +1,15 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Udemy_ADAK.PrjPcb]
+   Generated File[Udemy_ADAK_PCB-RoundHoles.TXT]
+   Generated File[Udemy_ADAK_PCB-SlotHoles.TXT]
+   Generated File[Udemy_ADAK_PCB-RoundHoles.TX1]
+   Generated File[Udemy_ADAK_PCB-RoundHoles.TX2]
+   Generated File[Udemy_ADAK_PCB.LDP]
+   Generated File[Udemy_ADAK_PCB.DRR]
+
+
+Files Generated   : 6
+Documents Printed : 0
+
+Finished Output Generation At 11:55:04 On 28.04.2023
